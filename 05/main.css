@@ -46,3 +46,10 @@ h2 {
            color: #AFC3D6;
            margin-bottom: 5px;
 }
+
+#main h2 {
+           color: #E8A064;
+           border-bottom: 2px white solid;
+           background: url(images/bullet_flower.png) no-repeat;
+           padding: 0 0 2px 80px;
+}
